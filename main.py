@@ -9,6 +9,4 @@ root.config(bg="#D4ECDD")
 show_btns(root)
 
 
-
-
 root.mainloop()
